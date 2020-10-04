@@ -1,0 +1,34 @@
+﻿[*.cs]
+
+# SA1611: Element parameters should be documented
+dotnet_diagnostic.SA1611.severity = silent
+
+# SA1401: Fields should be private
+dotnet_diagnostic.SA1401.severity = silent
+
+# SA1633: File should have header
+dotnet_diagnostic.SA1633.severity = silent
+
+# SA1600: Elements should be documented
+dotnet_diagnostic.SA1600.severity = silent
+
+# SA1629: Documentation text should end with a period
+dotnet_diagnostic.SA1629.severity = silent
+
+# SA1615: Element return value should be documented
+dotnet_diagnostic.SA1615.severity = silent
+
+# SA1601: Partial elements should be documented
+dotnet_diagnostic.SA1601.severity = silent
+
+# IDE0025: Use expression body for properties
+csharp_style_expression_bodied_properties = true:silent
+
+# SA1201: Elements should appear in the correct order
+dotnet_diagnostic.SA1201.severity = silent
+
+# SA1312: Variable names should begin with lower-case letter
+dotnet_diagnostic.SA1312.severity = silent
+
+# SA0001: XML comment analysis disabled
+dotnet_diagnostic.SA0001.severity = silent
